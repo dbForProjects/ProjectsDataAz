@@ -97,30 +97,6 @@
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque ",
 
       "price": "16,000.00 azn"
-    },
-    {
-      "id": 9,
-      "title": "Ov villası",
-      "units": "50 ədəd",
-      "image1": "/project4.jpg",
-      "image2": "/project3.jpg",
-      "image3": "/project1.jpg",
-      "place": "Kaliforniya, Dənizkənarı",
-      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque ",
-      "price": "4,000.00 azn"
-    },
-    {
-      "id": 10,
-      "title": "Vinchita Mənzil",
-      "units": "50 ədəd",
-      "image1": "/project2.jpg",
-      "image2": "/project3.jpg",
-      "image3": "/project4.jpg",
-      "place": "Nyu York, ABŞ",
-      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque iusto ullam debitis nulla asperiores, modi placeat facere accusantium.Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt quae neque ",
-      "price": "35,000.00 azn"
     }
   ]
 }
